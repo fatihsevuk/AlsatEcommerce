@@ -1,0 +1,6 @@
+[submodule "AlsatBackend"]
+	path = AlsatBackend
+	url = https://github.com/fthsvk/AlsatBackend.git
+[submodule "AlsatFrontend"]
+	path = AlsatFrontend
+	url = https://github.com/fthsvk/AlsatFrontend.git
